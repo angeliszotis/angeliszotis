@@ -15,10 +15,10 @@ I have a keen interest in **real estate** technology and am always on the lookou
 - I enjoy collaborating with teams to bring ideas to life! 🤝
 
 ## 🛠️ Technologies & Tools
-- **Languages:** PHP, JavaScript, HTML, CSS, Java, Kotlin
+- **Languages:** PHP, JavaScript, Java, Kotlin
 - **Frameworks:** Symfony, Laravel
 - **Databases:** MongoDB, MariaDB, FireBase
-- **Web Technologies:** Bootstrap, Three.js
+- **Web Technologies:** Bootstrap, Three.js, HTML, CSS
 - **Version Control:** Git, GitHub
 - **Other Tools:** Virtualmin, Android
 
