@@ -11,16 +11,17 @@ I have a keen interest in **real estate** technology and am always on the lookou
 
 ## 🌟 Fun Facts
 - I'm a native Greek speaker 🇬🇷.
-- I love experimenting with **3D graphics** using Three.js! 🎨
+- Pet Lover 🐾 – Especially fond of dogs 🐶 and parrots 🦜 – my favorite companions!
 - I enjoy collaborating with teams to bring ideas to life! 🤝
 
 ## 🛠️ Technologies & Tools
 - **Languages:** PHP, JavaScript, Java, Kotlin
 - **Frameworks:** Symfony, Laravel
 - **Databases:** MongoDB, MariaDB, FireBase
-- **Web Technologies:** Bootstrap, Three.js, HTML, CSS
+- **Web Technologies:** Bootstrap, Three.js, HTML, CSS ,twig ,blade
 - **Version Control:** Git, GitHub
 - **Other Tools:** Virtualmin, Android
+- **CMS:** Wordpress, Opencart
 
 ## 📫 Let's Connect!
 Feel free to reach out to me on [zotis.gr](https://zotis.gr) or follow me here on GitHub for updates on my projects! 🔗
