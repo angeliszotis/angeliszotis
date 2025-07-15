@@ -5,6 +5,7 @@ I'm a **joyful full-stack developer** with a passion for creating innovative web
 ## 🌍 Current Projects
 - **[Akinito24](https://akinito24.gr)**: A property management system focused on rentals and sales. 🏡
 - **[Airshop.gr](https://airshop.gr)**: A platform for booking airline tickets. ✈️
+- **[zotis.gr](https://zotis.gr)**: Personal website SPA with vanila js.
 
 ## 💼 About Me
 I have a keen interest in **real estate** technology and am always on the lookout for new challenges and opportunities to grow. Currently, I am also pursuing a **Master's degree in Web Intelligence** at the International Hellenic University. 🎓
