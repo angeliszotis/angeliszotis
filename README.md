@@ -1,54 +1,22 @@
-# 👋 Hello, I'm Zotis Angelis!
+# Zotis Angelis
 
-I'm a **joyful full-stack developer** with a passion for creating innovative web solutions. 🌟 I specialize in the **LAMP stack** and enjoy working with frameworks like **Symfony** and **Laravel**.
+Full-stack developer specializing in **LAMP stack**, **Symfony**, and **Laravel**.  
 
-## 🌍 Current Projects
-- **[Akinito24](https://akinito24.gr)**: A property management system focused on rentals and sales. 🏡
-- **[Airshop.gr](https://airshop.gr)**: A platform for booking airline tickets. ✈️
-- **[zotis.gr](https://zotis.gr)**: Personal website SPA with vanila js.
+## Current Projects
+- **[Airshop.gr](https://airshop.gr)** – Airline ticket booking platform  
+- **[zotis.gr](https://zotis.gr)** – Personal SPA built with vanilla JavaScript  
 
-## 💼 About Me
-I have a keen interest in **real estate** technology and am always on the lookout for new challenges and opportunities to grow. Currently, I am also pursuing a **Master's degree in Web Intelligence** at the International Hellenic University. 🎓
+## Skills
+- **Languages:** PHP, JavaScript, Java, Kotlin  
+- **Frameworks:** Symfony, Laravel  
+- **Databases:** MongoDB, MariaDB, Firebase  
+- **Web:** HTML, CSS, Bootstrap, Three.js, Twig, Blade  
+- **Version Control:** Git, GitHub  
+- **Other Tools:** Virtualmin, Android  
+- **CMS:** WordPress, OpenCart  
 
-## 🌟 Fun Facts
-- I'm a native Greek speaker 🇬🇷.
-- Pet Lover 🐾 – Especially fond of dogs 🐶 and parrots 🦜 – my favorite companions!
-- I enjoy collaborating with teams to bring ideas to life! 🤝
+## About Me
+Pursuing a **Master’s in Web Intelligence** at the International Hellenic University. Passionate about real estate technology and building efficient, scalable web solutions.  
 
-## 🛠️ Technologies & Tools
-- **Languages:** PHP, JavaScript, Java, Kotlin
-- **Frameworks:** Symfony, Laravel
-- **Databases:** MongoDB, MariaDB, FireBase
-- **Web Technologies:** Bootstrap, Three.js, HTML, CSS ,twig ,blade
-- **Version Control:** Git, GitHub
-- **Other Tools:** Virtualmin, Android
-- **CMS:** Wordpress, Opencart
-
-## 📫 Let's Connect!
-Feel free to reach out to me on [zotis.gr](https://zotis.gr) or follow me here on GitHub for updates on my projects! 🔗
-
----
-
-Thank you for stopping by! Let's create something amazing together! 🚀
-<!--
-**angeliszotis/angeliszotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-
-
-
+## Contact
+[Website](https://zotis.gr) | GitHub
