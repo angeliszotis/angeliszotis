@@ -40,4 +40,4 @@ Currently expanding into systems architecture and cloud infrastructure (AWS Solu
 
 ## Contact
 
-[zotis.gr](https://zotis.gr) · Open to backend and architecture roles
+[zotis.gr](https://zotis.gr)
