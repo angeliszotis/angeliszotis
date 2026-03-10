@@ -1,22 +1,43 @@
 # Zotis Angelis
+**Backend & Systems Developer** · PHP · Symfony · Laravel · MariaDB
 
-Full-stack developer specializing in **LAMP stack**, **Symfony**, and **Laravel**.  
+Building production systems at the intersection of backend architecture, data engineering, and platform reliability. Currently focused on airline booking infrastructure and backend data pipelines at scale.
 
-## Current Projects
-- **[Airshop.gr](https://airshop.gr)** – Airline ticket booking platform  
-- **[zotis.gr](https://zotis.gr)** – Personal SPA built with vanilla JavaScript  
+---
 
-## Skills
-- **Languages:** PHP, JavaScript, Java, Kotlin  
-- **Frameworks:** Symfony, Laravel  
-- **Databases:** MongoDB, MariaDB, Firebase  
-- **Web:** HTML, CSS, Bootstrap, Three.js, Twig, Blade  
-- **Version Control:** Git, GitHub  
-- **Other Tools:** Virtualmin, Android  
-- **CMS:** WordPress, OpenCart  
+## What I Work On
 
-## About Me
-Pursuing a **Master’s in Web Intelligence** at the International Hellenic University. Passionate about real estate technology and building efficient, scalable web solutions.  
+**[Airshop.gr](https://airshop.gr)**
+Airline ticket booking platform. Backend development across booking flows, fare data pipelines, and system integrations with industry APIs (Radixx).
+
+**[zotis.gr](https://zotis.gr)**
+Personal SPA built with vanilla JavaScript — zero dependencies.
+
+---
+
+## Technical Stack
+
+| Area | Technologies |
+|---|---|
+| **Backend** | PHP, Symfony, Laravel |
+| **Frontend** | JavaScript, HTML/CSS, Three.js, Twig, Blade |
+| **Infrastructure** | Linux, Debian, Virtualmin, Nginx, Apache, Docker, deployment pipelines |
+| **Databases** | MariaDB, MongoDB, Firebase, PostgreSQL |
+| **Mobile** | Android (Java, Kotlin) |
+| **Version Control** | Git, GitHub |
+
+---
+
+## Background
+
+MSc in Web Intelligence — International Hellenic University.
+
+Full-stack developer with sysadmin responsibilities, experienced in managing deployments, diagnosing production issues, and building internal tooling for data visibility and debugging.
+
+Currently expanding into systems architecture and cloud infrastructure (AWS Solutions Architect).
+
+---
 
 ## Contact
-[Website](https://zotis.gr) | GitHub
+
+[zotis.gr](https://zotis.gr) · Open to backend and architecture roles
